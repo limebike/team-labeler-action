@@ -31,11 +31,11 @@
   "dependencies": {
     "@actions/core": "1.5.0",
     "@actions/github": "2.2.0",
-    "js-yaml": "3.14.1"
+    "js-yaml": "4.1.0"
   },
   "devDependencies": {
     "@types/jest": "27.0.1",
-    "@types/js-yaml": "3.12.7",
+    "@types/js-yaml": "4.0.3",
     "@types/node": "14.17.15",
     "@typescript-eslint/parser": "4.31.0",
     "@zeit/ncc": "0.22.3",
@@ -45,7 +45,7 @@
     "eslint-plugin-prettier": "4.0.0",
     "jest": "27.1.1",
     "jest-circus": "27.1.1",
-    "js-yaml": "3.14.1",
+    "js-yaml": "4.1.0",
     "prettier": "2.3.2",
     "ts-jest": "27.0.5",
     "typescript": "3.9.10"
